@@ -6,7 +6,7 @@ Sell **time-bound access** to events, courses, tools, or apps. Buyers receive ac
  
 ## 🔍 What
      
-A self-contained smart contract that lets an admin:     
+A self-contained smart contract that lets an admin:      
 
 - **Create multiple pass types** (e.g., “Day Pass”, “Monthly”, “Annual”, “VIP”) 
 - Set **price**, **duration**, **max supply (optional)**, and whether time is **stackable**
