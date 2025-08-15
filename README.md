@@ -8,7 +8,7 @@ Sell **time-bound access** to events, courses, tools, or apps. Buyers receive ac
  
 A self-contained smart contract that lets an admin: 
 
-- **Create multiple pass types** (e.g., “Day Pass”, “Monthly”, “Annual”, “VIP”)
+- **Create multiple pass types** (e.g., “Day Pass”, “Monthly”, “Annual”, “VIP”) 
 - Set **price**, **duration**, **max supply (optional)**, and whether time is **stackable**
 - **Sell** passes in exchange for ETH
 - **Grant** passes manually (airdrop/comp/support)
