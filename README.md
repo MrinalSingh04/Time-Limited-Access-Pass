@@ -2,7 +2,7 @@
 
 Sell **time-bound access** to events, courses, tools, or apps. Buyers receive access that **automatically expires** after a defined duration. No monthly cron jobs, no off-chain databases required — the **block timestamp** is the source of truth.
 
----
+--- 
  
 ## 🔍 What
  
